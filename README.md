@@ -13,7 +13,6 @@ The project aim is to build a machine learning model that offers users to find c
 
 **Data Collected From:** [Car Dheko](https://www.cardekho.com/usedCars)
 
-**Linkedin URL :** https://www.linkedin.com/in/saravanan-b-241468269/details/projects/
 
 **Problem Statement:**
 
